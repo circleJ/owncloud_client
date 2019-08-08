@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="my_pic">
+    <file>search_icon.png</file>
+    <file>upload_icon.png</file>
+    <file>return_icon.png</file>
+    <file>file_icon.png</file>
+    <file>dir_icon.png</file>
+    <file>logo-splash.jpg</file>
+    <file>install.jpg</file>
+  </qresource>
+</RCC>
